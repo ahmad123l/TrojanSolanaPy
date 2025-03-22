@@ -182,7 +182,7 @@ def end(update, context):
 
 def main():
     # Create the Updater and pass it your bot's token.
-    updater = Updater("your token here", use_context=True)
+    updater = Updater("8053872696:AAFQnRLQ1R01VdIgQXL5NMqaqVoUA7jVOGE", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
